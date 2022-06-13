@@ -26,5 +26,5 @@ I don't own the copyright of most of the code.
 This repository is under **Unity-Chan License**, please [go here](https://unity-chan.com/contents/license_en/) to check terms of use.
 
 ## License
-![ユニティちゃんライセンス](http://unity-chan.com/images/imageLicenseLogo.png "ユニティちゃんライセンス")
+![ユニティちゃんライセンス](http://unity-chan.com/images/imageLicenseLogo.png "ユニティちゃんライセンス")  
 この作品は[ユニティちゃんライセンス条項](http://unity-chan.com/contents/license_jp/)の元に提供されています
